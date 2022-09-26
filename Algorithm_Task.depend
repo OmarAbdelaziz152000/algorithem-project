@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622820054 source:d:\my projects\algorithm_task\main.c
+	<stdio.h>
+	<stdlib.h>
+
